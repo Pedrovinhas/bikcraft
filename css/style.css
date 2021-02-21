@@ -882,7 +882,7 @@ img {
   display: block;
   background: url("../img/linhas.png") no-repeat center;
   position: absolute;
-  top: 209px;
+  top: 180px;
   right: 162px;
   z-index: -1;
 }
