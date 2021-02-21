@@ -862,7 +862,7 @@ img {
   background: #fec63e;
 }
 
-.portfolio_lista div:last-of-type {
+.portfolio_lista li:last-child {
   margin-top: 20px;
 }
 
