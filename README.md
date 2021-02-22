@@ -3,7 +3,7 @@
 </div>
 
 
-### Sobre
+### Sobre 📌
 Essa aplicação foi desenvolvida durante o curso de Web Design Completo pela [Origamid](Origamid.com). Nela construimos um aplicação web do zero, desde a prototipagem das páginas até a criação das interfaces sobre a venda de bicicletas personalizdas pela loja Bikcraft.
 
 ### Habilidades desenvolvidas 🧠
@@ -20,6 +20,10 @@ Essa aplicação foi desenvolvida durante o curso de Web Design Completo pela [O
 - SASS
 - JavaScript
 
-### Documentação 📄
+###  Documentação 📄
 
 O curso de Web Design foi todo documentado e você pode conferir esse material clicando em [Notion](https://www.notion.so/Web-Design-Completo-88d2f71f0d5046c0adae19aa1b289421)
+
+### Mostre o seu suporte 🎉
+Deixe uma estrelinha ⭐ se esse projeto te ajudou de alguma forma.
+
